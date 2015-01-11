@@ -1,0 +1,1 @@
+--name;test_speechmodule;--timeout;20;--;/Users/geoffroy/Work/NAOCPP/workspace/speechmodule/build-mytoolchain/sdk/bin/test_speechmodule

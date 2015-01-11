@@ -1,0 +1,2 @@
+/Users/geoffroy/Work/NAOCPP/workspace/speechmodule/build-mytoolchain/CMakeFiles/test_speechmodule.dir
+/Users/geoffroy/Work/NAOCPP/workspace/speechmodule/build-mytoolchain/CMakeFiles/speechmodule.dir

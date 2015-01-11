@@ -1,0 +1,14 @@
+[
+  {
+    "environment": null, 
+    "name": "test_speechmodule", 
+    "cmd": [
+      "/Users/geoffroy/Work/NAOCPP/workspace/speechmodule/build-mytoolchain/sdk/bin/test_speechmodule"
+    ], 
+    "nightly": false, 
+    "gtest": false, 
+    "working_directory": null, 
+    "timeout": 20, 
+    "perf": false
+  }
+]
