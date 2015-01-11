@@ -1,5 +1,5 @@
 # naocpp_sayhello
-Nao says hello world using C++
+Nao says hello world using C++ and generic proxies
 
 # How to use
 To start the program you need a remote naoqi running with an ip and a port.
